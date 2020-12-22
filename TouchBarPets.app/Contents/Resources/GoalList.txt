@@ -1,0 +1,26 @@
+Tutorial 15 Flower2
+Complete pet tutorial and be a pro!
+Walker 15 Box
+Complete walk tutorial and walk pet!
+Builder 15 Fence
+Upgrade Pen by adding items from the shop
+Gamer 15 Arcade
+Add an Arcade machine to your pen
+Gardener 15 Flower1
+Upgrade pen by adding some greenery
+Musician 15 Duck
+Buy something which has music
+Millionaire 10 Bread
+Save up and reach 500 tokens
+Painter 30 Wall1
+Add a new wall to the pen! New feel.
+Pirate 30 Treasure
+arrrr! Find some Treasure walking
+Cleaner 10 Garbage
+Pick some litter up on a walk.
+Stinky 10 Poop
+Made sure to clean after you pet!
+Baller 10 Basketball
+Play some basketball with your pet.
+Festive 10 ChristmasTree
+Get in the spirit by buying a Christmas tree.

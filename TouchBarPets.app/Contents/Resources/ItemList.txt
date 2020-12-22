@@ -1,0 +1,110 @@
+RevivePotion 150 Eat 1000
+Fully heals your pet! Can even revive a dead pet ZERO DEATHS!
+Pizza 10 Eat 5
+A delicious filling dish made typically of flattened bread dough with various toppings like meat or cheese. Hunger: 5
+Meat 15 Eat 7
+The segment of a fowl's leg between the thigh and tarsus. Hunger: 7
+Apple 8 Eat 3
+A sweet, edible fruit produced by an apple tree. A healthy treat! Hunger: 3
+Carrot 5 Eat 2
+A extremely popular vegetable, especially for rabbits. A healthy treat! Hunger: 2
+SeedMix 8 Eat 4
+Heard a new pet got added? Feed your hamster this, they'll love you. Hunger: 4
+Bread 5 Eat 2
+A very basic food made from flour, yeast and water, a perfect snack when not too hungry. Hunger: 2
+Drink 9 Eat 8
+Something to drink to get the food down! Very healthy. Hunger: 6
+Pancakes 20 Eat 10
+A pancake is a breakfast dish, a flat cake with yummy syrup and butter! Hunger: 10
+Cheese 7 Eat 4
+A dairy product derived from milk, hide it from your mouse! ... I've said too much. Hunger: 4
+Fish 13 Eat 7
+Caught sustainably from the pixel ocean! Healthy and delicious for any type of pet. Hunger: 7
+Croissant 7 Eat 2
+A layered yeast-leavened dough! Perfect for any occasion to fill a little bit of hunger. Hunger: 2
+Watermelon 2 Eat 1
+A large slice of watery, sweet deliciousness, never filling but tastes great! Hunger: 1
+Soda 5 Eat 2
+Something to drink to get the food down! Very unhealthy. Hunger: 2
+tiktok 50 Design none
+Thanks for all the support! Here's a trophe to say thanks.
+Wall1 30 Design none
+Change the landscape up! Add a simple blue background to your pen. It wall be great!
+Wall2 30 Design none
+Change the landscape up! Add a simple royal purple for you pet. It wall be great!
+Wall3 40 Design none
+Change the landscape up! Add a new background for your pet to see. It wall be great!
+Wall4 50 Design none
+Change the landscape up! Add a new background for your pet to see. It wall be great!
+Door1 25 Design none
+Pillar which can be used to seperate walled sections, and therefore used as a door.
+Cactus1 25 Design none
+A type of desert plant that has thick, leafless stems covered in prickly spines or sharp spikes. Type: Potted
+Cactus2 20 Design none
+A type of desert plant that has thick, leafless stems covered in prickly spines or sharp spikes. Type: Grounded
+Grass 10 Design none
+A vibrant area of grass and flowers, perfect to light up any area.
+Flower1 15 Design none
+A beautiful vibrant purple plant. Flowers are also called the bloom or blossom of a plant. Type: Potted
+Flower2 5 Design none
+Picked from the far mountains of Germany, this plant will brighten the pen. Type: Grounded
+Flower3 10 Design none
+Perfect potted plant which can light up any environment, it's more of a shrub than flower. Type: Potted
+Rock 20 Design none
+A naturally occurring solid mass or aggregate of minerals from Australia, it rocks!.
+Tree1 25 Design none
+A tall plant with a trunk and branches made of wood, perfect for a green environment.
+Bush1 15 Design none
+A large plant which is smaller than a tree and has a lot of branches, great for the environment! Type: Potted
+Bush2 5 Design none
+A large plant which is smaller than a tree and has a lot of branches, great for the environment! Type: Grounded
+Computer 100 Design none
+A computer is a machine or device that performs processes, calculations and operations based on instructions.
+Arcade 200 Design none
+A machine which contains loads of games, coming soon to play!
+Chest 75 Design none
+A box with a lid and often, a lock, for storing or shipping things, jammed for now!
+Sign 15 Design none
+Just a pretty plank of wood which can carry a message for your pet.
+Fence 5 Design none
+Block out anything bad or create sectioned off areas for your pet!
+Barrel 15 Design none
+Just a barrel, looks pretty but carries nothing! Makes a area look nice.
+Torch 10 Design none
+Pretty lit, adds some light to the space! Don't worry. No animals can get harmed
+Table 30 Design none
+Make your pen more home-y and add a table where your pet can eat and stay!
+Pot1 20 Design none
+A pretty addition to spice up an area, vibrant and full of colour!
+Grave 20 Design none
+A stele or marker, usually stone, that is placed over a grave. Dead rest below!
+GingerbreadMan 30 Play bounce
+A gingerbread toy shaped as a human, when placed will jump till picked up!
+Duck 10 Play sound
+Just a little duck! Squeaks when you place it down which pets love
+Can 5 Play none
+Uhhhh ... its pretty much just a can that does nothing but fun?
+Box 5 Play none
+Pretty much just a box, from bunnings. Cats loves it! It does nothing but is very fun.
+RosewoodBall 10 Play none
+A rosewood ball is a hamsters favorite toy! Try it out
+Ball1 20 Play bounce
+A tennis ball to play with your pet, drop it and it'll bounce in to your pet to get!
+Basketball 20 Play bounce
+Kobe! (RIP) Play some basketball with your pet, it bounces around
+Mouse 20 Play none
+Squeeaak! Don't worry its just a toy that sits there. No mice yet! ...
+ChristmasTree 50 Seasonal none
+Add some bang to your pen with a Christmas tree (Limited Time)
+Reef 10 Seasonal none
+An assortment of leaves and flowers to brighten up your pen! (Limited Time)
+Present1 15 Seasonal none
+Celebrate christmas by gift giving! (Limited Time)
+Present2 10 Seasonal none
+Celebrate christmas by gift giving! (Limited Time)
+Stockings 20 Seasonal none
+Empty for now, hopefully it gets filled up on christmas! (Limited Time)
+Lights 25 Seasonal none
+Brighten up your pen with some cute fairy lights (Limited Time)
+CandyCane 10 Seasonal none
+Careful, hopefully your pet doesnt eat this decoration (Limited Time)
